@@ -27,3 +27,9 @@ Hi! I'm Terry. Here's a few cool facts about me:
 I'm training to be the next Bill Gates or Steve Jobs. Except also a DJ and gamer. Hopefully my training from Practicum by Yandex can help me achieve those goals. I've already taken the first step by creating Terry's Goat Blog, and online platform where users can create and share their favorite goats. I'm hoping this will revoltionize the world of goat farming, tech, fintech, farmtech, goatech, sheeptech, techdeck and creating a sustainable life/goat/work balance moving forward into the 21st century.
 
 My main thing to remember is that you are not a new goat, or a newcomer to goat raising. I've seen it happen in the past with all my own goats, people are getting into archery, or in archery classes. You don't have to be new to goat raising too; I just wish you could learn a little something different. You don't have to read goat books or have gone to yoga classes. Even if you did have kids, you should have at least started off with a lot of practice and experience. That said, it's okay for kids to get involved with your goat club, because a new goat won't get involved in any way that keeps them from playing with the goats.
+
+ My goal is to create a new breed of 'hard worker' in a place that is not one of the few places where it will be affordable to live and have fun. My dream is a community of those who can make some money from producing goats, and those who will be making a living from their business. The Goat Blog is my way of saying 'no thanks' to the things I have always said...
+
+Hello guys, and thank you for reading. Hope you enjoyed my blog. I hope you enjoy the life you've been given. As always, I will be updating it with new content based off my new Blog at a later date. Also, as always, thanks for all your help and feedback and I will continue to update this blog!
+
+In closing, I wish you all the best in your future career.
