@@ -1,3 +1,15 @@
 @import url('./components/Header/Header.css');
 @import url('./components/Intro/Intro.css');
 @import url('./components/Facts/Facts.css');
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.App__TerryChill{
+  max-height: 400px;
+  max-width: 1200px;
+  align-self: center;
+}

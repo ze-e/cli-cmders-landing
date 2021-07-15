@@ -1,0 +1,19 @@
+.intro{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  align-items: center;
+}
+
+.intro__img{
+  border-radius: 20px;
+  max-width: 240px;
+  max-height: 240px;
+  margin-right: 10px;
+}
+
+.intro__text{
+  background-color: #0882FF;
+  color: #FFFFFF;
+  padding: 5px;
+}
