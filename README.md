@@ -24,7 +24,7 @@ Hi! I'm Terry. Here's a few cool facts about me:
 - is a gamer who likes to put on more and more plays
 
 # About My Goals:
-I'm training to be the next Bill Gates or Steve Jobs. Except also a DJ and gamer. Hopefully my training from Practicum by Yandex can help me achieve those goals. I've already taken the first step by creating Terry's Goat Blog, and online platform where users can create and share their favorite goats. I'm hoping this will revoltionize the world of goat farming, tech, fintech, farmtech, goatech, sheeptech, techdeck and creating a sustainable life/goat/work balance moving forward into the 21st century.
+I'm training to be the next Bill Gates or Steve Jobs. Except also a DJ and gamer. Hopefully my training from Practicum by Yandex can help me achieve those goals. I've already taken the first step by creating Terry's Goat Blog, an online platform where users can create and share their favorite goats. I'm hoping this will revoltionize the world of goat farming, tech, fintech, farmtech, goatech, sheeptech, techdeck and creating a sustainable life/goat/work balance moving forward into the 21st century.
 
 My main thing to remember is that you are not a new goat, or a newcomer to goat raising. I've seen it happen in the past with all my own goats, people are getting into archery, or in archery classes. You don't have to be new to goat raising too; I just wish you could learn a little something different. You don't have to read goat books or have gone to yoga classes. Even if you did have kids, you should have at least started off with a lot of practice and experience. That said, it's okay for kids to get involved with your goat club, because a new goat won't get involved in any way that keeps them from playing with the goats.
 
